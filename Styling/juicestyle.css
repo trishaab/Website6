@@ -1,0 +1,29 @@
+.image2 {
+    width:300px;
+    float:right;
+    border-radius: 30px;
+}
+
+.image3 {
+    width:295px
+}
+
+.image4 {
+    width:295px
+}
+
+.image5 {
+    width:255px
+}
+
+.image6 {
+    width:198px
+}
+
+.image7 {
+    width:240px
+}
+
+.image2:hover {
+    width:500px
+}

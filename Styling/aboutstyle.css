@@ -1,0 +1,26 @@
+.image2 {
+    width: 150px;
+    float:right;
+    border-radius:30px
+}
+
+.image3 {
+    width:500px
+}
+
+.image4 {
+    width:367px
+}
+
+.image5 {
+    width:433px
+}
+
+.image2:hover {
+    width:500px
+}
+
+.bonus {
+    list-style:disc;
+    display:list-item
+}
